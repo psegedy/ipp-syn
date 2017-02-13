@@ -1,0 +1,2 @@
+# syn
+Syntax highlighting
